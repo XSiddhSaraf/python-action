@@ -1,2 +1,2 @@
-# python-action
-Learning Python with Github action
+# Python-Action
+## Learning Python with Github action
